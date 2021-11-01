@@ -1,3 +1,5 @@
+
+/*
 class Customer{
     constructor(id,customerNumber){
         this.id =id;
@@ -29,3 +31,8 @@ class CorporateCustomer extends Customer{
         this.companyName = companyName
     }
 }
+
+*/
+
+
+
